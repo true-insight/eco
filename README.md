@@ -1,7 +1,7 @@
 # eco
 Insights about ecological state of human beings.
 
-## Ressurgent Ecologies
+## Resurgent Ecologies
 The comparison between "developed" vs "developing" countries is fallacious because it's not like the developed country has reached its pinnacle and stopped developing! The dynamism among cities, city-states, states and nations is ever evolving. 
 
 Even the terms [Emerging Markets or Emerging Economies](https://en.wikipedia.org/wiki/Emerging_market) is untenable and politically dicey. The worst terminologies that are extremely prejudiced and biggoted are that of [First World](https://en.wikipedia.org/wiki/First_World) vs [Third World](https://en.wikipedia.org/wiki/Third_World) countries. 
